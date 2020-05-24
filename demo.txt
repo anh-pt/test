@@ -1,0 +1,21 @@
+- cấu hình cài đặt
+git config
+git config --help
+git config --global user.name = ""
+git config --global user.email = ""
+
+khởi tạo file
+git init
+git status(xem file đã khởi tại)
+
+git add "demo.txt"(add 1 file)
+git add . (add tất cả trong foder)
+git commit -m "commit torepository"(commit lên)
+viết tắt 2 lệnh add và commit
+it commit add -a -m "..."
+
+git log(lịch sử commit)
+quay lại thời điểm trước
+git revert id(của cái trc)
+git remote add gitproject https://github.com/anh-pt/test.git
+git push --set-upstream gitproject master
