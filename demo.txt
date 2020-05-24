@@ -19,3 +19,4 @@ quay lại thời điểm trước
 git revert id(của cái trc)
 git remote add gitproject https://github.com/anh-pt/test.git
 git push --set-upstream gitproject master
+123
